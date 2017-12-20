@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2098532711
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gridspace
+      Dependencies: {}
